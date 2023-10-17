@@ -8,3 +8,12 @@
 #chapter-15 p > span:nth-child(3){
 	margin-left: 1em;
 }
+
+#chapter-16 p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+#chapter-16 p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
