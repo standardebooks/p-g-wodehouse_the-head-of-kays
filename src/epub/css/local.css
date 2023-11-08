@@ -1,20 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
 #chapter-15 p > span{
 	display: block;
 }
 
 #chapter-15 p > span:nth-child(3){
 	margin-left: 1em;
-}
-
-#chapter-16 p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
-}
-
-#chapter-16 p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
 }
