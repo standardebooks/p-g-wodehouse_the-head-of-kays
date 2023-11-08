@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-15.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>Formatting used for non verse text</reason>
+		</ignore>
+	</file>
+	<file path="chapter-24.xhtml">
+		<ignore>
+			<code>t-063</code>
+			<reason>ad infinitum is common latin, although in this case presented in a sentence fragment</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
