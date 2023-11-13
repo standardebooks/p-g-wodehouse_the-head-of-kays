@@ -20,6 +20,11 @@
 	list-style: none;
 }
 
+#chapter-15 ul p{
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
 #chapter-16 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
