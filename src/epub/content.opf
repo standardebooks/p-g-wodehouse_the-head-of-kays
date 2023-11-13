@@ -15,7 +15,7 @@
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
- 		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
 		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
@@ -33,7 +33,10 @@
 		<meta property="term" refines="#subject-1">sh2008111268</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Two boys in a house at an English public school help to replace an unpopular headmaster against a backdrop of cricket, rugby, practical jokes, politics, and fights.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;A chronicle of the adventures of two boys, Fenn and Kennedy, who conspire to replace their ill-mannered headmaster, Mr. Kay. On the way, the gregarious boys are involved in cricket and rugby matches between the houses, a music concert gone wrong, and other adventures in this exciting story exploring the lives of and relationships between boarding school boys.&lt;/p&gt; &lt;p&gt;The book was first serialized in The Captain from October 1904 to March 1905 before being published as a book in 1905. Published in the early part of his prolific career, it is the fifth book by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;.&lt;/p&gt;</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;A chronicle of the adventures of two boys, Fenn and Kennedy, who conspire to replace their ill-mannered headmaster, Mr. Kay. On the way, the gregarious boys are involved in cricket and rugby matches between the houses, a music concert gone wrong, and other adventures in this exciting story exploring the lives of and relationships between boarding school boys.&lt;/p&gt;
+			&lt;p&gt;The book was first serialized in The Captain from October 1904 to March 1905 before being published as a book in 1905. Published in the early part of his prolific career, it is the fifth book by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6877</dc:source>
 		<dc:source>https://books.google.com/books?id=J7kWAAAAYAAJ</dc:source>
