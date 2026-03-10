@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-15.xhtml">
 		<ignore code="t-057">
+			<line>54</line>
 			<reason>Lowercase is correct.</reason>
 		</ignore>
 	</file>
