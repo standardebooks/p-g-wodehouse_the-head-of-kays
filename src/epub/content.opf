@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008111268</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Two boys in a house at an English public school help to replace an unpopular headmaster against a backdrop of cricket, rugby, practical jokes, politics, and fights.</dc:abstract>
+		<meta property="schema:abstract">Two boys in a house at an English public school help to replace an unpopular headmaster against a backdrop of cricket, rugby, practical jokes, politics, and fights.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Head of Kay’s&lt;/i&gt; is a chronicle of the adventures of two boys, Fenn and Kennedy, who conspire to replace their ill-mannered headmaster, Mr. Kay. On the way, the gregarious boys are involved in cricket and rugby matches between the houses, a music concert gone wrong, and other adventures in this exciting story exploring the lives and relationships of boarding school boys.&lt;/p&gt;
 			&lt;p&gt;The book was first serialized in &lt;i&gt;The Captain&lt;/i&gt; from October 1904 to March 1905 before being published as a book in 1905. Released in the early part of his prolific career, it is the fifth book by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;.&lt;/p&gt;
